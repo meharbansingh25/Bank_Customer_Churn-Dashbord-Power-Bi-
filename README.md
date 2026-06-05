@@ -15,7 +15,7 @@ I specialize in:
 ---
 
 ## 📫 Contact
-GitHub: https://github.com/[yourusername](https://github.com/meharbansingh25/Bank_Customer_Churn-Dashbord-Power-Bi-)
+GitHub: https://github.com/https://github.com/meharbansingh25/Bank_Customer_Churn-Dashbord-Power-Bi-
 
 --- 
 
