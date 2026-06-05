@@ -1,24 +1,3 @@
-# Hi 👋 I'm Bachan Singh
-
-## Aspiring Data Analyst
-
-I specialize in:
-- SQL
-- Excel
-- Power BI
-
----
-
-## 🚀 Projects
-- Bank Customer Churn Analysis (Excel + SQL + Power BI)
-
----
-
-## 📫 Contact
-GitHub: https://github.com/https://github.com/meharbansingh25/Bank_Customer_Churn-Dashbord-Power-Bi-
-
---- 
-
 # Bank Customer Churn Analysis Dashboard
 
 ## Project Objective
